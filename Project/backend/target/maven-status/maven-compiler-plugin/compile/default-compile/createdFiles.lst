@@ -1,0 +1,9 @@
+com\ubuntuartsa\backend\enums\Role.class
+com\ubuntuartsa\backend\controller\TestController.class
+com\ubuntuartsa\backend\model\Artist.class
+com\ubuntuartsa\backend\UbuntuArtSaBackendApplication.class
+com\ubuntuartsa\backend\config\SecurityConfig.class
+com\ubuntuartsa\backend\model\User.class
+com\ubuntuartsa\backend\enums\DisabilityType.class
+com\ubuntuartsa\backend\repository\ArtistRepository.class
+com\ubuntuartsa\backend\repository\UserRepository.class
